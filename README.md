@@ -1,6 +1,6 @@
 # Método de Cuadrados y Productos Centrales
 
-Este es un script que implementa el Método de Cuadrados y Productos Centrales para la generación de números aleatorios. El método permite generar secuencias de números pseudoaleatorios utilizando operaciones matemáticas simples a partir de semillas iniciales.
+Este es un código que implementa el Método de Cuadrados y Productos Centrales para la generación de números aleatorios. El método permite generar secuencias de números pseudoaleatorios utilizando operaciones matemáticas simples a partir de semillas iniciales.
 
 ## Librerías
 
